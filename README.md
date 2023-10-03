@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alejandro</h1>
-<h3 align="center">I am a passionate and dedicated Senior System Software Engineer who is committed to delivering innovative solutions that drive business success. Ask me about **Java, Spring Boot, JavaScript, NodeJS, Flutter,Software Architecture, Backend Development, Solid Principles, Clean Architecture**</h3>
+<h3 align="center">I am a passionate and dedicated Senior System Software Engineer committed to delivering innovative solutions that drive business success. Ask me about Java, Spring Boot, JavaScript, NodeJS, Flutter, Software Architecture, Backend Development, Solid Principles, Clean Architecture</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alafourcadev" alt="alafourcadev" /></a> </p>
 
