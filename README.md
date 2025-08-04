@@ -1,21 +1,64 @@
-# 💫 About Me:
-🔭 I’m currently working on Microservices and distributed systems for document management<br><br>🌱 I’m currently learning Devops and cloud computing best practices as well as software engineer management<br><br>👯 I’m looking to collaborate on Projects with great social impact<br><br>👨‍💻 All of my projects are available at https://github.com/alafourcadev<br><br>📝 I regularly write articles on https://medium.com/@alafourcadev<br><br>💬 Ask me about Java, Spring Boot, Software Architecture, Backend Development, Devops Practices ,Solid Principles, Clean Architecture<br><br>📫 How to reach me alafourcadedespaigne@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/alafourcadedespaigne/<br><br>⚡ Fun fact I´m NBA junkie
+# 🚀 Dev Setup & Best Practices
 
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alafourcadedespaigne/) 
+![GitHub stars](https://img.shields.io/github/stars/tu-usuario/dev-setup?style=social)
+![GitHub forks](https://img.shields.io/github/forks/tu-usuario/dev-setup?style=social)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![ARGOCD](https://img.shields.io/badge/argo-EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white&color=%23EF7B4D) ![APACHEKAFKA](https://img.shields.io/badge/apachekafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white&color=%23231F20) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![GRAFANA](https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white&color=%23F46800) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![PROMETHEUS](https://img.shields.io/badge/prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white&color=%23E6522C) ![SONARQUBE](https://img.shields.io/badge/sonarqube-4E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white&color=%234E9BCD) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alafourcadev&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=alafourcadev&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alafourcadev&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+### Una colección curada de configuraciones y mejores prácticas para desarrolladores
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[Instalación](#instalación) • [Características](#características) • [Uso](#uso) • [Contribuir](#contribuir)
 
----
-[![](https://visitcount.itsvg.in/api?id=alafourcadev&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📋 Tabla de Contenidos
+
+- [¿Por qué usar este .gitignore_global?](#por-qué-usar-este-gitignoreglobal)
+- [Características](#características)
+- [Instalación](#instalación)
+- [Estructura](#estructura)
+- [Best Practices](#best-practices)
+- [Troubleshooting](#troubleshooting)
+- [Contribuciones](#contribuciones)
+
+## 🤔 ¿Por qué usar este .gitignore_global?
+
+Los archivos temporales, configuraciones de IDEs y archivos del sistema operativo no deberían estar en tus repositorios. Este `.gitignore_global` incluye:
+
+- ✅ **+300 patrones** cuidadosamente seleccionados
+- ✅ **Soporte para herramientas AI** modernas (Copilot, Cursor, Claude, etc.)
+- ✅ **Organizado por categorías** para fácil mantenimiento
+- ✅ **Actualizado regularmente** con nuevas herramientas
+- ✅ **Battle-tested** en proyectos reales
+
+## ✨ Características
+
+### 🖥️ Sistemas Operativos
+- macOS (`.DS_Store`, `.Spotlight-V100`, etc.)
+- Windows (`Thumbs.db`, `desktop.ini`, etc.)
+- Linux (`.directory`, `.Trash-*`, etc.)
+
+### 🛠️ IDEs y Editores
+- Visual Studio Code
+- JetBrains (IntelliJ, PyCharm, WebStorm)
+- Vim, Emacs, Sublime Text
+- Xcode
+
+### 🤖 Herramientas de IA
+- GitHub Copilot
+- Cursor
+- Claude/Anthropic
+- OpenAI/ChatGPT
+- Windsurf
+- Y más...
+
+### 💻 Lenguajes
+Soporte completo para Python, JavaScript, Java, Go, Rust, Ruby, PHP, C/C++, y más.
+
+## 🚀 Instalación
+
+### Opción 1: Script automático
+
+```bash
+curl -sSL https://raw.githubusercontent.com/tu-usuario/dev-setup/main/install.sh | bash
