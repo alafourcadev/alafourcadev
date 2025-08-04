@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1>Alexander Lafourcade</h1>
+  <h1>Alejandro Lafourcade</h1>
   
   <h3>Arquitecto de Software | Ingeniero Backend Senior | Líder Técnico</h3>
   
@@ -35,8 +35,8 @@ Creo firmemente que **la arquitectura de software es la base fundamental** de cu
 **Arquitecto de Software e Ingeniero Backend Senior** con más de **10 años** de experiencia diseñando y construyendo sistemas escalables y cloud-native. Me especializo en transformar requisitos de negocio complejos en soluciones técnicas elegantes que perduran en el tiempo.
 
 ### 🎓 Educación
-- **Maestría** - Gestión Estratégica de Ingeniería de Software
-- **Licenciatura** - Ciencias de la Computación
+- **Maestría** - Dirección Estratégica en Ingeniería de Software
+- **Ingeniería** - Ing en Ciencias Informáticas
 
 ### 💼 Experiencia en Industrias
 - **Salud** 🏥 - Sistemas críticos con altos estándares de seguridad y compliance
